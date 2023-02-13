@@ -3,7 +3,7 @@
 ## ENG:
 
 #### Hi, I’m Joaquin Arruiz (23yo), I'm from Rosario, Santa Fe, Argentina 🇦🇷. I'm currently studying a System Engineer Degree at the [UTN](https://en.wikipedia.org/wiki/National_Technological_University)
-#### I'm currently in the path of becoming a Fullstack Web Developer. I'm currently learning Javascript, Html, CSS through [The Odin Project](https://www.theodinproject.com/)
+#### I'm currently in the path of becoming a Fullstack Web Developer. I'm learning Javascript, Html, CSS through [The Odin Project](https://www.theodinproject.com/)
 
 
 
