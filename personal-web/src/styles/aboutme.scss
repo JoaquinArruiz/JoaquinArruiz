@@ -1,4 +1,22 @@
 .about-me{
-    background-color: black;
+    background-color: #111111;
     color: white;
+    width: 90%;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+
+    h3{
+        font-size: 2em;
+        margin-bottom: 0.5em;
+        font-weight: bold;
+        color: #F2E52E;
+    }
+
+    p{
+        font-size: 1.2em;
+        a{
+            font-weight: bold;
+        }
+    }
 }

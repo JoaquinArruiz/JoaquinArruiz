@@ -3,10 +3,12 @@
     align-items: center;
     width: 85%;
     color: rgb(255, 255, 255);
-    background-color: black;
+    background-color: #111111;
+    padding: 1em;
 
     h3{
         font-size: 2em;
+        margin-bottom: 0.5em;
     }
     
     .career-display{
@@ -21,6 +23,7 @@
 
     .timeline{
         display: flex;
+        margin-bottom: 1em;
 
         hr{
             width: 2em;
@@ -48,6 +51,7 @@
         
         h4{
             font-size: 1.3em;
+            font-weight: bold;
         }
         p{
             font-size: 1.1em;
@@ -64,19 +68,19 @@
         .circle{
             width: 1em;
             height: 1em;
-            background-color: wheat;
+            background-color: #F2E52E;
             border-radius: 1em;
             margin-bottom: 8px;
             transition: 200ms ease-in-out;
 
             &:hover{
                 cursor: pointer;
-                background-color: rgb(139, 139, 139);
+                background-color: #e43838;
             }
         }
 
         .selected{
-            background-color: rgb(255, 255, 255);
+            background-color: #F2EB88;
         }
     }
 }

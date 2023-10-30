@@ -26,6 +26,8 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
     font-family: 'Gadugi', sans-serif ;
+	display: flex;
+	 
 }
 ol, ul {
 	list-style: none;
@@ -48,5 +50,5 @@ table {
 
 .section{
     margin-top: 2em;
-    padding: 1em;
 }
+
