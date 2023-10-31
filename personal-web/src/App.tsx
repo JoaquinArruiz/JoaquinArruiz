@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import Top from './component/Top.tsx'
 import Aboutme from './component/About-me.tsx'
 import Career from './component/Career.tsx'
