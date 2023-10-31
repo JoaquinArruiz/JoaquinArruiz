@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import '../styles/career.scss';
 import {motion, useAnimate} from 'framer-motion'
 
