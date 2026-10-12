@@ -162,10 +162,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinArruiz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoaquinArruiz&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
-</p>
-
 ---
 
 <p align="center"><i>¡Gracias por pasar! · Thanks for stopping by!</i></p>
