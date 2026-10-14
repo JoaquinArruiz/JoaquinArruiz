@@ -16,7 +16,7 @@
 
 - 💼 **Software Engineer** building web, cloud and desktop applications
 - 🎓 Studying **Information Systems Engineering** at UTN
-- 🗣️ **Spanish** (native) · **English** (C1, professional)
+- 🗣️ **Spanish** · **English**
 - 🌎 Based in Rosario, Argentina · working remotely with international teams
 
 ### ⭐ Featured project
